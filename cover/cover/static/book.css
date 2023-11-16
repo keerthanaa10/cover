@@ -1,0 +1,48 @@
+p{
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+div{
+    text-align: center;
+}
+
+.T1{
+    font-weight: bold;
+    color: rgb(243, 242, 240);
+    font-size:17px;
+    margin-top: 30px;
+    margin-left: -1350px;
+
+}
+.l1{
+    width: 20%;
+    margin-left: -10px;
+}
+.T2{
+    font-weight: bold;
+    color: rgb(238, 233, 228);
+    font-size:45px;
+    margin-top:70px;
+    margin-left: -1050px;
+}
+
+.T3{
+    font-weight: bold;
+    font-size:20px;
+    margin-top: 480px;
+    color: rgb(248, 247, 245);
+    margin-left: -1350px;
+
+}
+.l2{
+    width: 20%;
+    margin-left: -10px;
+}
+.i1{
+    height: 100px;
+    margin-left: 410px;
+    margin-top: -180px;
+}
